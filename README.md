@@ -1,5 +1,5 @@
 # iMovieGuru
-Movie directory app that connects to API and returns JSON objects.
+Movie directory app using API and JSON.
 
 
 ![image](https://user-images.githubusercontent.com/56138234/80074939-a216c580-84e5-11ea-89d1-e2444c732595.png)
